@@ -1,6 +1,7 @@
 # Felipe Bridge
 
-# 💫 About Me:
+
+## 💫 About Me:
 AI Engineering | Data Engineer | Analytics
 
 Estudiante de Ingeniería en Inteligencia Artificial en la Universidad de Palermo, enfocado en el diseño de sistemas de datos escalables, arquitectura analítica y soluciones basadas en Machine Learning.
