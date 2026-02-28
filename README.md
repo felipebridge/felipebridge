@@ -1,13 +1,14 @@
 <h1 align="center"><b>Hi , I'm Felipe Bridge </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 <!--  -->
 
-## 💫 About Me:
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+
 ### AI Engineering | Data Engineer | Analytics
 
-Estudiante de Ingeniería en Inteligencia Artificial en la Universidad de Palermo, enfocado en el diseño de sistemas de datos escalables, arquitectura analítica y soluciones basadas en Machine Learning.
+AI Engineering student at Universidad de Palermo, focused on designing scalable data systems, analytical architecture, and Machine Learning–driven solutions.
 
-Trabajo sobre el ciclo completo del dato: modelado, procesos ETL, Data Warehousing, análisis avanzado y visualización, priorizando estructura, rendimiento y claridad arquitectónica.
-
+I work across the full data lifecycle: modeling, ETL processes, Data Warehousing, advanced analytics, and visualization, prioritizing structure, performance, and architectural clarity.
 ---
 
 # 💻 Tech Stack:
