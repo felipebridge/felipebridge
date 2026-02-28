@@ -2,11 +2,8 @@
 
 
 <!--  -->
+<h3> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me*** <h3>
 
-<p>
-  <img src="https://media.giphy.com/media/ObNtW8Uzwy6KQ/giphy.gif" width="30px">
-  <strong>About me</strong>
-</p>
 
 
 ### AI Engineering | Data Engineer | Analytics
