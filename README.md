@@ -3,7 +3,10 @@
 
 <!--  -->
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<h3>
+  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="28px">
+  About me
+</h3>
 
 
 ### AI Engineering | Data Engineer | Analytics
