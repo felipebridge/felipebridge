@@ -1,20 +1,18 @@
 # Felipe Bridge
 
-**AI Engineering | Data Engineer | Analytics**
+# 💫 About Me:
+AI Engineering | Data Engineer | Analytics
 
 Estudiante de Ingeniería en Inteligencia Artificial en la Universidad de Palermo, enfocado en el diseño de sistemas de datos escalables, arquitectura analítica y soluciones basadas en Machine Learning.
 
 Trabajo sobre el ciclo completo del dato: modelado, procesos ETL, Data Warehousing, análisis avanzado y visualización, priorizando estructura, rendimiento y claridad arquitectónica.
 
 ---
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/felipebridge/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:felibridge49@gmail.com) 
 
-## Stack Tecnológico
-
-### Lenguajes y Análisis
-- Python
-- Java
-- SQL  
-- MySQL  
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### Data Engineering
 - ETL Pipelines  
@@ -23,15 +21,6 @@ Trabajo sobre el ciclo completo del dato: modelado, procesos ETL, Data Warehousi
 - Data Modeling  
 - Data Mining
 - Machine Learning
-
-### Business Intelligence
-- Power BI  
-- DAX  
-
-### Infraestructura y Herramientas
-- Linux  
-- Git  
-- Docker  
 
 ---
 
@@ -67,8 +56,3 @@ Aplicación de escritorio en Java (Swing) con base de datos MySQL para la gesti�
 Profundizando en Data Engineering y Machine Learning, fortaleciendo arquitectura de datos y optimizando sistemas analíticos escalables.
 
 ---
-
-## Contacto
-
-LinkedIn: https://www.linkedin.com/in/felipebridge/
-Email: felibridge49@gmail.com
