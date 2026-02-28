@@ -1,6 +1,5 @@
 # Felipe Bridge
 
----
 
 ## 💫 About Me:
 ### AI Engineering | Data Engineer | Analytics
@@ -48,12 +47,6 @@ Optimización de arquitectura analítica incorporando mejoras en transformación
 ### Turnera Médica App - Java System
 Aplicación de escritorio en Java (Swing) con base de datos MySQL para la gestión de turnos médicos.
 - Repositorio: https://github.com/felipebridge/turnera-medica-app
-
----
-
-## Actualmente
-
-Profundizando en Data Engineering y Machine Learning, fortaleciendo arquitectura de datos y optimizando sistemas analíticos escalables.
 
 ---
 
