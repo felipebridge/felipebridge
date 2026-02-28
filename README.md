@@ -49,13 +49,16 @@ Trabajo sobre el ciclo completo del dato: modelado, procesos ETL, Data Warehousi
 
 ### Data Warehouse – Sales Analytics
 Diseño e implementación de un Data Warehouse con modelado dimensional completo, definición de granularidad y métricas, procesos ETL e integración con visualización analítica.
+- Repositorio: https://github.com/felipebridge/data-warehouse-analytics
 
 ### Data Warehouse – Amazon 
 Proyecto de Data Engineering end-to-end de un Data Warehouse para e-commerce, incluyendo procesos ETL en Python, modelado dimensional (Star Schema) en MySQL y análisis OLAP en Power BI.
 Optimización de arquitectura analítica incorporando mejoras en transformación de datos, modelado estructurado y rendimiento en consultas SQL.
+- Repositorio: https://github.com/felipebridge/data-warehouse-amazon
 
 ### Turnera Médica App - Java System
 Aplicación de escritorio en Java (Swing) con base de datos MySQL para la gestión de turnos médicos.
+- Repositorio: https://github.com/felipebridge/turnera-medica-app
 
 ---
 
