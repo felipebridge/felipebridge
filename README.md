@@ -9,7 +9,7 @@
 </h3>
 
 
-### AI Engineering | Data Engineer | Analytics
+#### AI Engineering | Data Engineer | Analytics
 
 - 👨‍💻 Artificial Intelligence Engineering student at Universidad de Palermo, focused on designing scalable data systems, analytical architecture, and Machine Learning–driven solutions.
 
