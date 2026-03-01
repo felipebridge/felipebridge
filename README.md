@@ -8,7 +8,7 @@
   About me
 </h3>
 
-#### AI Engineering | Data Engineer | Analytics
+#### AI Engineering | Data Engineering
 
 - 👨‍💻 AI Engineering student at Universidad de Palermo focused on scalable data systems, analytical architecture and Machine Learning solutions.
 - 🚀 Working across the full data lifecycle: modeling, ETL, Data Warehousing and advanced analytics, prioritizing performance and architectural clarity.
