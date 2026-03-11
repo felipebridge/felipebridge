@@ -49,6 +49,15 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 
-## 🌐 Socials:
-- 🔗 LinkedIn: https://www.linkedin.com/in/felipebridge/
-- 📩 Email: felibridge49@gmail.com
+## 🤝 &nbsp; Let's Connect
+<br>
+
+<p align="center">
+<a href="https://linkedin.com/in/TU-USUARIO"><img src="https://skillicons.dev/icons?i=linkedin" height="60"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/felipebridge"><img src="https://skillicons.dev/icons?i=github" height="60"></a>
+</p>
+
+
+<p align="center">
+  📩 <strong>Contact:</strong> <a href="mailto:felibridge49@gmail.com">felibridge49@gmail.com</a>
+</p>
