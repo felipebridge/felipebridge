@@ -46,7 +46,7 @@
 <br>
 
 <p align="center">
-<a href="https://linkedin.com/in/TU-USUARIO"><img src="https://skillicons.dev/icons?i=linkedin" height="60"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/felipebridge/"><img src="https://skillicons.dev/icons?i=linkedin" height="60"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/felipebridge"><img src="https://skillicons.dev/icons?i=github" height="60"></a>
 </p>
 
