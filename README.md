@@ -13,4 +13,11 @@ My work sits at the intersection of **data engineering, analytics, and machine l
 
 Here I share projects centered on **data architecture, analytical pipelines, and the development of end-to-end AI systems**.
 
+##
+<br>
 
+<p align="center">
+<a href="https://felipebridge.netlify.app">
+<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge">
+</a>
+</p>
