@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Felipe Bridge </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Felipe Bridge </b></h1>
 
 <!--  -->
 
@@ -7,11 +7,11 @@
   About me
 </h3>
 
-AI Engineering student at **Universidad de Palermo**, focused on designing and building **data systems and AI-driven solutions**.
+AI Engineering student at **Universidad de Palermo**, focused on building **end-to-end AI and data systems** that turn raw data into scalable, optimized solutions.
 
-My work sits at the intersection of **data engineering, analytics, and machine learning**, exploring how to turn raw data into scalable systems that generate insight and support decision-making.
+My work combines **AI engineering, data pipelines, and machine learning** to create systems that automate processes and support data-driven decision-making.
 
-Here I share projects centered on **data architecture, analytical pipelines, and the development of end-to-end AI systems**.
+Welcome to my workspace.
 
 ##
 <br>
