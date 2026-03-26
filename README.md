@@ -11,7 +11,7 @@ AI Engineering student at **Universidad de Palermo**, focused on building **end-
 
 My work combines **AI engineering, data pipelines, and machine learning** to create systems that automate processes and support data-driven decision-making.
 
-Welcome to my workspace
+Welcome to my workspace.
 
 ##
 <br>
