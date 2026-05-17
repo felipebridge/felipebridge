@@ -2,6 +2,10 @@
 
 <!--  -->
 
+<p align="center">
+  <img src="./assets/banner.png" alt="FB Banner" width="100%"/>
+</p>
+
 <h3>
   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="28px">
   About me
