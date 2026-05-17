@@ -1,8 +1,8 @@
 <h1 align="center"><b>Hi , I'm Felipe Bridge </b></h1>
 
-
-<h3>
-  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;About me
+<h3 style="display: flex; align-items: center; gap: 8px;">
+  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="28px" style="vertical-align: middle;"/>
+  <strong>About me</strong>
 </h3>
 
 AI Engineering student at **Universidad de Palermo**, focused on building **end-to-end AI and data systems** that turn raw data into scalable, optimized solutions.
