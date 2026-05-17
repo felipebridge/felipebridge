@@ -1,7 +1,6 @@
 <h1 align="center"><b>Hi , I'm Felipe Bridge </b></h1>
 
 <h3>
-  <img src="https://media.giphy.com/media/RHIKETUlUINYvV7CAO/giphy.gif" width="28px">
   About me
 </h3>
 
