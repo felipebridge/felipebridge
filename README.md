@@ -1,9 +1,6 @@
 <h1 align="center"><b>Hi , I'm Felipe Bridge </b></h1>
 
-<h3>
-  <img src="./assets/fb-logo.png" width="28px">
-  About me
-</h3>
+<h3>About me</h3>
 
 AI Engineering student at **Universidad de Palermo**, focused on building **end-to-end AI and data systems** that turn raw data into scalable, optimized solutions.
 
@@ -15,7 +12,5 @@ Welcome to my workspace.
 <br>
 
 <p align="center">
-<a href="https://felipebridge.netlify.app">
-<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge">
-</a>
+<a href="https://felipebridge.netlify.app">Website</a>
 </p>
