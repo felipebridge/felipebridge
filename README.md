@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/banner.png" alt="FB Banner" width="100%"/>
-</p>
-
 <h1 align="center"><b>Hi , I'm Felipe Bridge </b></h1>
 
 <h3>
