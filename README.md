@@ -12,5 +12,7 @@ Welcome to my workspace.
 <br>
 
 <p align="center">
-<a href="https://felipebridge.netlify.app">Website</a>
+<a href="https://felipebridge.netlify.app">
+<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge">
+</a>
 </p>
