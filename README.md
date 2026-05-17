@@ -1,10 +1,9 @@
-<h1 align="center"><b>Hi , I'm Felipe Bridge </b></h1>
-
-<!--  -->
-
 <p align="center">
   <img src="./assets/banner.png" alt="FB Banner" width="100%"/>
 </p>
+
+<h1 align="center"><b>Hi , I'm Felipe Bridge </b></h1>
+
 
 <h3>
   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="28px">
