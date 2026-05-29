@@ -5,9 +5,7 @@
   <strong style="vertical-align: middle;">About me</strong>
 </h3>
 
-AI Engineering student at **Universidad de Palermo**, focused on building **end-to-end AI and data systems** that turn raw data into scalable, optimized solutions.
-
-My work combines **AI engineering, data pipelines, and machine learning** to create systems that automate processes and support data-driven decision-making.
+AI Engineer focused on **automation**, **AI agents**, and scalable intelligent systems. Building end-to-end AI infrastructures with LLMs, machine learning, data pipelines, and workflow automation to create high-performance solutions. 
 
 Welcome to my workspace.
 
