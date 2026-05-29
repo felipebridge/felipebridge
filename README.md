@@ -5,10 +5,12 @@
 **AI Engineer** focused on automation, AI agents, and scalable intelligent systems. 
 Building end-to-end **AI infrastructures** with LLMs, machine learning, data pipelines, and workflow automation to create high-performance solutions. 
 
-Welcome to my workspace.
+<p align="center">
+  Let’s build something exceptional.<br><br>
+  <a href="mailto:felipebridgec@gmail.com">felipebridgec@gmail.com</a> 
+</p>
 
-Let’s build something exceptional.
-felipebridgec@gmail.com
+Welcome to my workspace.
 
 ##
 <br>
