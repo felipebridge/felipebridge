@@ -5,7 +5,9 @@
   <strong style="vertical-align: middle;">About me</strong>
 </h3>
 
-AI Engineer focused on **automation**, **AI agents**, and scalable intelligent systems. Building end-to-end AI infrastructures with LLMs, machine learning, data pipelines, and workflow automation to create high-performance solutions. 
+AI Engineer focused on **automation**, **AI agents**, and scalable intelligent systems. 
+
+Building end-to-end AI infrastructures with LLMs, machine learning, data pipelines, and workflow automation to create high-performance solutions. 
 
 Welcome to my workspace.
 
