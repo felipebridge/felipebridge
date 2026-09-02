@@ -2,7 +2,7 @@
 
 <br>
 
-**AI Engineer** focused on automation, AI agents, and scalable intelligent systems. 
+**AI Engineer** focused on automation, computer vision, and scalable intelligent systems. 
 
 Building end-to-end **AI infrastructures** with LLMs, machine learning, data pipelines, and workflow automation to create high-performance solutions. 
 
