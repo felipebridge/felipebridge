@@ -2,6 +2,9 @@
 
 <br>
 
+<img src="https://mauriciospark.github.io/coreIcons/fotos/python.png" height="45" alt="python logo"/>|
+<img src="https://mauriciospark.github.io/coreIcons/fotos/github.png" height="45" alt="github logo"/>
+
 **AI Engineer** focused on automation, computer vision, and scalable intelligent systems. 
 
 Building end-to-end **AI infrastructures** with LLMs, machine learning, data pipelines, and workflow automation to create high-performance solutions. 
