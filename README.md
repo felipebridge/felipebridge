@@ -1,6 +1,7 @@
-- 🖖 Hi, I'm @felipebridge
-- 🤖 Focused on computer vision, machine learning, and AI Agents.
-- 📚 Studying Artificial Intelligence Engineering at Universidad de Palermo.
-- 🌐 Open to any kind of project, with a focus on open source and artificial intelligence.
-- ✉️ Reach out at [felibridge49@gmail.com](mailto:felibridge49@gmail.com) if you're interested in collaborating.
-- 🛰️ Welcome to my workspace
+- 👋 Hi, I'm @felipebridge
+- 🔍 Focused on computer vision, machine learning, and AI Agents.
+- 🎓 Artificial Intelligence Engineering Student at Universidad de Palermo.
+- 🚀 Open to any kind of project, with a focus on open source and artificial intelligence.
+- 📧 Reach out at [felibridge49@gmail.com](mailto:felibridge49@gmail.com) if you're interested in collaborating.
+- ⚡ Welcome to my workspace
+  
