@@ -1,11 +1,6 @@
-<h1 align="center"><b>Hi , I'm Felipe Bridge </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<br>
-
-**AI Engineer** focused on automation, computer vision, and scalable intelligent systems. 
-
-Building end-to-end **AI infrastructures** with LLMs, machine learning, data pipelines, and workflow automation to create high-performance solutions. 
-
-Welcome to my workspace.
-
-
+- 🖖 Hi, I'm @felipebridge
+- 🤖 Focused on computer vision, machine learning, and AI Agents.
+- 📚 Studying Artificial Intelligence Engineering at Universidad de Palermo.
+- 🌐 Open to any kind of project, with a focus on open source and artificial intelligence.
+- ✉️ Reach out at [felibridge49@gmail.com](mailto:felibridge49@gmail.com) if you're interested in collaborating.
+- 🛰️ Welcome to my workspace
